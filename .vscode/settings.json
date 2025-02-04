@@ -1,0 +1,15 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\mahd\\esp\\v5.4\\esp-idf",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s2.cfg"
+    ],
+    "idf.toolsPathWin": "C:\\Users\\mahd\\.espressif",
+    "files.associations": {
+        "esp_log.h": "c",
+        "led_strip.h": "c"
+    },
+    "idf.portWin": "COM10",
+    "idf.flashType": "UART"
+}
