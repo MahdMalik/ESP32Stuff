@@ -1125,3 +1125,26 @@
 12603	12860	7604256239668805	C:/Users/mahd/Documents/esp 32 project/build/.bin_timestamp	661ccde6646acaf2
 12861	12945	7604256239727757	esp-idf/esptool_py/CMakeFiles/app_check_size	17c6891208c741f1
 12861	12945	7604256239727757	C:/Users/mahd/Documents/esp 32 project/build/esp-idf/esptool_py/CMakeFiles/app_check_size	17c6891208c741f1
+114	313	7604264935800792	bootloader-prefix/src/bootloader-stamp/bootloader-build	7d1935c5c99cb2f9
+114	313	7604264935800792	bootloader/bootloader.elf	7d1935c5c99cb2f9
+114	313	7604264935800792	bootloader/bootloader.bin	7d1935c5c99cb2f9
+114	313	7604264935800792	bootloader/bootloader.map	7d1935c5c99cb2f9
+114	313	7604264935800792	C:/Users/mahd/Documents/esp 32 project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	7d1935c5c99cb2f9
+114	313	7604264935800792	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.elf	7d1935c5c99cb2f9
+114	313	7604264935800792	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.bin	7d1935c5c99cb2f9
+114	313	7604264935800792	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.map	7d1935c5c99cb2f9
+314	359	7604264937799194	bootloader-prefix/src/bootloader-stamp/bootloader-install	a4e2ddc6493dcac5
+314	359	7604264937799194	C:/Users/mahd/Documents/esp 32 project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	a4e2ddc6493dcac5
+101	457	7604264935670791	esp-idf/main/CMakeFiles/__idf_main.dir/blink_example_main.c.obj	3d5de5b074358006
+360	470	7604264939211022	CMakeFiles/bootloader-complete	45ef3957f0f6fb7b
+360	470	7604264939211022	bootloader-prefix/src/bootloader-stamp/bootloader-done	45ef3957f0f6fb7b
+360	470	7604264939211022	C:/Users/mahd/Documents/esp 32 project/build/CMakeFiles/bootloader-complete	45ef3957f0f6fb7b
+360	470	7604264939211022	C:/Users/mahd/Documents/esp 32 project/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	45ef3957f0f6fb7b
+458	609	7604264939241113	esp-idf/main/libmain.a	9b8b9d93f5c95846
+609	11352	7604265047688597	esp-idf/esp_system/ld/sections.ld	44d8ddb995703665
+609	11352	7604265047688597	C:/Users/mahd/Documents/esp 32 project/build/esp-idf/esp_system/ld/sections.ld	44d8ddb995703665
+11352	12350	7604265048178737	esp.elf	c2d8d506df33b36d
+12352	12848	7604265063013672	.bin_timestamp	661ccde6646acaf2
+12352	12848	7604265063013672	C:/Users/mahd/Documents/esp 32 project/build/.bin_timestamp	661ccde6646acaf2
+12849	13004	7604265063163702	esp-idf/esptool_py/CMakeFiles/app_check_size	17c6891208c741f1
+12849	13004	7604265063163702	C:/Users/mahd/Documents/esp 32 project/build/esp-idf/esptool_py/CMakeFiles/app_check_size	17c6891208c741f1

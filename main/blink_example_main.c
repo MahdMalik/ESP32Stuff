@@ -13,6 +13,10 @@ static uint8_t s_led_state = 0;
 
 #ifdef CONFIG_BLINK_LED_GPIO
 
+#define BUFFER_SIZE 1024
+
+#define UART_NUM UART_NUM_1
+
 static void blink_led(void)
 {
     /* Set the GPIO level according to the state (LOW or HIGH)*/
@@ -33,16 +37,12 @@ static void configure_led(void)
 
 void app_main(void)
 {
-    typedef struct {float value1; float value2; float value3; float value4;} MotorData;
+    typedef struct {float throttle; float yaw; float pitch; float roll;} MotorData;
     /* Configure the peripheral according to the LED type */
     configure_led();
-    MotorData currentData = {.2, .3, -.6, .7};
+    MotorData currentData = {0, 0, 0, 0};
     while (1) {
-        currentData.value1 += 0.01;
-        currentData.value2 += 0.02;
-        currentData.value3 -= 0.05;
-        currentData.value4 -= 0.0001;
-        ESP_LOGI("Test 1", "Value 1: %f, Value 2: %f, Value 3: %f, Value 4: %f", currentData.value1, currentData.value2, currentData.value3, currentData.value4);
+        ESP_LOGI("Test 1", "Value 1: %f, Value 2: %f, Value 3: %f, Value 4: %f", currentData.throttle, currentData.yaw, currentData.pitch, currentData.roll);
         ESP_LOGI("Test 1", "Turning the LED %s!", s_led_state == true ? "ON" : "OFF");
         blink_led();
         /* Toggle the LED state */
