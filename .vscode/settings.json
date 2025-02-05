@@ -8,7 +8,10 @@
     "idf.toolsPathWin": "C:\\Users\\mahd\\.espressif",
     "files.associations": {
         "esp_log.h": "c",
-        "led_strip.h": "c"
+        "led_strip.h": "c",
+        "regex": "c",
+        "xlocale": "c",
+        "xstring": "c"
     },
     "idf.portWin": "COM10",
     "idf.flashType": "UART"
