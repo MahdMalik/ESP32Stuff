@@ -1092,3 +1092,36 @@
 7619	7882	7604121067615504	C:/Users/mahd/Documents/esp 32 project/build/.bin_timestamp	661ccde6646acaf2
 7883	7993	7604121067675448	esp-idf/esptool_py/CMakeFiles/app_check_size	17c6891208c741f1
 7883	7993	7604121067675448	C:/Users/mahd/Documents/esp 32 project/build/esp-idf/esptool_py/CMakeFiles/app_check_size	17c6891208c741f1
+1569	1811	7604255743310983	bootloader-prefix/src/bootloader-stamp/bootloader-build	7d1935c5c99cb2f9
+1569	1811	7604255743310983	bootloader/bootloader.elf	7d1935c5c99cb2f9
+1569	1811	7604255743310983	bootloader/bootloader.bin	7d1935c5c99cb2f9
+1569	1811	7604255743310983	bootloader/bootloader.map	7d1935c5c99cb2f9
+1569	1811	7604255743310983	C:/Users/mahd/Documents/esp 32 project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	7d1935c5c99cb2f9
+1569	1811	7604255743310983	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.elf	7d1935c5c99cb2f9
+1569	1811	7604255743310983	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.bin	7d1935c5c99cb2f9
+1569	1811	7604255743310983	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.map	7d1935c5c99cb2f9
+1812	1848	7604255745731453	bootloader-prefix/src/bootloader-stamp/bootloader-install	a4e2ddc6493dcac5
+1812	1848	7604255745731453	C:/Users/mahd/Documents/esp 32 project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	a4e2ddc6493dcac5
+111	297	7604256112222989	bootloader-prefix/src/bootloader-stamp/bootloader-build	7d1935c5c99cb2f9
+111	297	7604256112222989	bootloader/bootloader.elf	7d1935c5c99cb2f9
+111	297	7604256112222989	bootloader/bootloader.bin	7d1935c5c99cb2f9
+111	297	7604256112222989	bootloader/bootloader.map	7d1935c5c99cb2f9
+111	297	7604256112222989	C:/Users/mahd/Documents/esp 32 project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	7d1935c5c99cb2f9
+111	297	7604256112222989	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.elf	7d1935c5c99cb2f9
+111	297	7604256112222989	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.bin	7d1935c5c99cb2f9
+111	297	7604256112222989	C:/Users/mahd/Documents/esp 32 project/build/bootloader/bootloader.map	7d1935c5c99cb2f9
+297	333	7604256114088747	bootloader-prefix/src/bootloader-stamp/bootloader-install	a4e2ddc6493dcac5
+297	333	7604256114088747	C:/Users/mahd/Documents/esp 32 project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	a4e2ddc6493dcac5
+333	426	7604256115331383	CMakeFiles/bootloader-complete	45ef3957f0f6fb7b
+333	426	7604256115331383	bootloader-prefix/src/bootloader-stamp/bootloader-done	45ef3957f0f6fb7b
+333	426	7604256115331383	C:/Users/mahd/Documents/esp 32 project/build/CMakeFiles/bootloader-complete	45ef3957f0f6fb7b
+333	426	7604256115331383	C:/Users/mahd/Documents/esp 32 project/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	45ef3957f0f6fb7b
+103	675	7604256112143167	esp-idf/main/CMakeFiles/__idf_main.dir/blink_example_main.c.obj	3d5de5b074358006
+676	1351	7604256117877679	esp-idf/main/libmain.a	9b8b9d93f5c95846
+1352	10372	7604256214554016	esp-idf/esp_system/ld/sections.ld	44d8ddb995703665
+1352	10372	7604256214554016	C:/Users/mahd/Documents/esp 32 project/build/esp-idf/esp_system/ld/sections.ld	44d8ddb995703665
+10372	12602	7604256214843857	esp.elf	c2d8d506df33b36d
+12603	12860	7604256239668805	.bin_timestamp	661ccde6646acaf2
+12603	12860	7604256239668805	C:/Users/mahd/Documents/esp 32 project/build/.bin_timestamp	661ccde6646acaf2
+12861	12945	7604256239727757	esp-idf/esptool_py/CMakeFiles/app_check_size	17c6891208c741f1
+12861	12945	7604256239727757	C:/Users/mahd/Documents/esp 32 project/build/esp-idf/esptool_py/CMakeFiles/app_check_size	17c6891208c741f1

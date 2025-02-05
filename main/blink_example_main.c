@@ -33,11 +33,16 @@ static void configure_led(void)
 
 void app_main(void)
 {
-
+    typedef struct {float value1; float value2; float value3; float value4;} MotorData;
     /* Configure the peripheral according to the LED type */
     configure_led();
-
+    MotorData currentData = {.2, .3, -.6, .7};
     while (1) {
+        currentData.value1 += 0.01;
+        currentData.value2 += 0.02;
+        currentData.value3 -= 0.05;
+        currentData.value4 -= 0.0001;
+        ESP_LOGI("Test 1", "Value 1: %f, Value 2: %f, Value 3: %f, Value 4: %f", currentData.value1, currentData.value2, currentData.value3, currentData.value4);
         ESP_LOGI("Test 1", "Turning the LED %s!", s_led_state == true ? "ON" : "OFF");
         blink_led();
         /* Toggle the LED state */
